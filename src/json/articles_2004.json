@@ -1,0 +1,352 @@
+{
+    "general_issue": [
+       {
+          "content_article_id": "2030ba98-3233-4bea-9b59-ade99a96aa720",
+          "category_name": "Fresh Fare",
+          "author_article_id": "300",
+          "source_site_id": "4230",
+          "subtitle": "’Tis the Season for This Festive Fruit",
+          "content_path": "\/mm\/issues\/I2004\/300.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/300_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/300_MAIN.jpg",
+          "headline": "Why Your Holiday Table Needs Pomegranates",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Fast, Fruit, Produce, Quick, Recipe, Seasonal, Sides, Vegan, Vegetarian, Chocolate, Desserts"
+       },
+       {
+          "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478fe1",
+          "category_name": "How-To",
+          "author_article_id": "320",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/321.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/320_THUMB.jpg",
+          "media_path": "",
+          "headline": "Chef Tips for Icing Holiday Cookies",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Cookie, Desserts, DIY, Pastry, Recipe, Seasonal, Tips and Tricks"
+       },
+       {
+          "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478f3",
+          "category_name": "What&rsquo;s In-Store",
+          "author_article_id": "330",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/330.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/330_THUMB.jpg",
+          "media_path": "",
+          "headline": "Everything You Need for Happy Holidays",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Chocolate, Desserts, Drinks, Gifts, Seasonal, Wine"
+       },
+       {
+          "content_article_id": "16f412f7-50f3-47e0-be01-7e89728a5aaa4",
+          "category_name": "Dinner Tonight",
+          "author_article_id": "350",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/350.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/350_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/350_MAIN.png",
+          "headline": "Easy, Delicious Dinner (Hint: Includes Bacon)",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, Chicken, Dinner, Fast, Quick, Recipe"
+       },
+       {
+          "content_article_id": "16f412f7-50f3-47e0-be01-7e8978a5aaa5",
+          "category_name": "Dinner Tonight",
+          "author_article_id": "360",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/360.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/360_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/360_MAIN.png",
+          "headline": "One Pan = Gourmet Meal in Minutes",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Chicken, Dinner, Fast, Quick, Recipe"
+       },
+       {
+          "content_article_id": "d236d7fa6-019e-45c6-be24-a213422f5606",
+          "category_name": "Secret Ingredient",
+          "author_article_id": "370",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/370.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/370_THUMB.jpg",
+          "media_path": "",
+          "headline": "When to Splurge and Save on Vanilla Beans",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Desserts, Expert Advice, Seasonal, Tips and Tricks"
+       },
+       {
+          "content_article_id": "d36d7fa6-019e-45c6-be24-a213422f5607",
+          "category_name": "Good Food, Fast",
+          "author_article_id": "380",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/380.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/380_THUMB.jpg",
+          "headline": "It’s Pasta Night and Fun Is on the Menu",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, Beef, Dinner, Fast, Kids, Meat, Pasta, Quick"
+       },
+       {
+          "content_article_id": "ccfea7cb-94351-4dfd-91d5-3a4a80b04688",
+          "category_name": "Good Food, Fast",
+          "author_article_id": "390",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/390.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/390_THUMB.jpg",
+          "media_path": "",
+          "headline": "Grilled Cheese Gets a Gourmet Upgrade",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Dinner, Fast, Lunch, Quick, Sandwich, Soup"
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b04689",
+          "category_name": "Feature",
+          "author_article_id": "400",
+          "source_site_id": "4230",
+          "subtitle": "(need to write)",
+          "content_path": "\/mm\/issues\/I2004\/400.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/400_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/400_MAIN.jpg",
+          "headline": "A Prep-Ahead Plan for Making Merry Easy",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, Chocolate, Cookie, Crafts, Décor, Desserts, Dinner, DIY, Drinks, Fast, Meat, Recipe, Salad, Seasonal, Sides, Slow cooker, Tips and Tricks, Turkey "
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a803b04680",
+          "category_name": "Feature Article",
+          "author_article_id": "410",
+          "source_site_id": "4230",
+          "subtitle": "No Need to Choose Between Simple and Sensational",
+          "content_path": "\/mm\/issues\/I2004\/410.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/410_THUMB.gif",
+          "media_path": "./src/assets/issues/i2004/images/410_MAIN.png",
+          "headline": "Yes, Your Holiday Meal Can Be Easy & Elegant",
+          "animate1": "./src/assets/issues/i2004/images/410/top-cruton.png",
+          "animate2": "./src/assets/issues/i2004/images/410/mid-cruton.png",
+          "animate3": "./src/assets/issues/i2004/images/410/bottom-cruton.png",
+          "animate4": "./src/assets/issues/i2004/images/410/berries.png",
+          "animate_bg_image": "./src/assets/issues/i2004/images/410/background.jpg",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, Beef, Cocktails, Dinner, Drinks, Meat, Party, Produce, Recipe, Seasonal, Sides, Turkey, Vegetable, Wine"
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b04681",
+          "category_name": "Feature Article",
+          "author_article_id": "500",
+          "source_site_id": "4230",
+          "subtitle": "Nifty Hacks and Recipes to Fit Every Schedule",
+          "content_path": "\/mm\/issues\/I2004\/500.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/500_THUMB.gif",
+          "media_path": "./src/assets/issues/i2004/images/500_MAIN.png",
+          "headline": "3 Cookies Perfect for Even the Busiest Bakers",
+          "animate1": "./src/assets/issues/i2004/images/500/greencookie.png",
+          "animate2": "./src/assets/issues/i2004/images/500/whitecookie.png",
+          "animate3": "./src/assets/issues/i2004/images/500/sugar.png",
+          "animate4": "./src/assets/issues/i2004/images/500/bottomcookie.png",
+          "animate_bg_color": "#ac191e",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Cookie, Desserts, Fast, Quick, Recipe, Seasonal"
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b042622",
+          "category_name": "Feature",
+          "author_article_id": "510",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/510.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/510_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/510_MAIN.jpg",
+          "animate1": "./src/assets/issues/i2004/images/510/pie1.png",
+          "animate2": "./src/assets/issues/i2004/images/510/pie2.png",
+          "animate3": "./src/assets/issues/i2004/images/510/pie3.png",
+          "animate4": "./src/assets/issues/i2004/images/510/nut1.png",
+          "animate5": "./src/assets/issues/i2004/images/510/nut2.png",
+          "animate6": "./src/assets/issues/i2004/images/510/nut3.png",
+          "animate_bg_color": "#76ca7b",
+          "headline": "3 Jaw-Dropping Desserts",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Cake, Desserts, Party"
+       },
+       {
+          "content_article_id": "a3bde814-8b07-4e15-8647-63614b9ba133",
+          "category_name": "Feature",
+          "author_article_id": "520",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/520.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/520_THUMB.gif",
+          "media_path": "./src/assets/issues/i2004/images/520_MAIN.gif",
+          "headline": "12 Meaningful Ways to Spend the Holidays",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Décor, Desserts, DIY, Kids, Party, Pasta, Seasonal, Tips and Tricks"
+       },
+       {
+          "content_article_id": "654b0b0b-fa5a-47ed-b3e7-d29507c12c44",
+          "category_name": "Feature",
+          "author_article_id": "530",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/530.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/530_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2004/images/530_MAIN.jpg",
+          "headline": "10 DIY Gift Sets That Are Sure to Wow",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, Baby, DIY, Gifts, Seasonal, Tips and Tricks"
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494555",
+          "category_name": "Healthy Living",
+          "author_article_id": "600",
+          "source_site_id": "4230",
+          "subtitle": "Expert Advice for a Healthy Body, Mind and Spirit",
+          "content_path": "\/mm\/issues\/I2004\/600.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/600_THUMB.gif",
+          "media_path": "",
+          "headline": "Tips for Feeling Your Best",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Expert Advice, Healthy, Seasonal, Wellness"
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494566",
+          "category_name": "On the Calendar",
+          "author_article_id": "610",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/610.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/610_THUMB.jpg",
+          "media_path": "",
+          "headline": "5-Minute DIY Stovetop Holiday Potpourri ",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Beauty, Crafts, DIY, Fruit, Gifts, Makeup, Seasonal, Skincare, Tips and Tricks"
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494577",
+          "category_name": "Asked & Answered",
+          "author_article_id": "620",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2004\/620.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/620_THUMB.gif",
+          "media_path": "",
+          "headline": "What Are You Most Thankful For?",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Seasonal"
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494588",
+          "category_name": "Expert Tips",
+          "author_article_id": "630",
+          "source_site_id": "4230",
+          "subtitle": "A DIY Gift that Melts Hearts",
+          "content_path": "\/mm\/issues\/I2004\/630.html",
+          "secondary_media_path": "./src/assets/issues/i2004/images/630_THUMB.jpg",
+          "media_path": "",
+          "headline": "Gifting Compound Butter Spreads Holiday Cheer",
+          "tags": [
+             "I2004"
+          ],
+          "keywords": "Appetizers, DIY, Gifts, Seasonal"
+       },
+      {
+         "content_article_id": "aa6219b1-aef5-47d4-afc8-0990cf494510",
+         "category_name": "Food Feature",
+         "author_article_id": "710",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2004\/710.html",
+         "secondary_media_path": "./src/assets/issues/i2004/images/710_THUMB.jpg",
+         "media_path": "",
+         "headline": "Foolproof Tips for Turkey Success",
+         "tags": [
+            "I2004"
+         ],
+         "keywords": "Dinner, Expert Advice, Meat, Seasonal, Tips and Tricks, Turkey"
+      },
+      {
+         "content_article_id": "aa6219b2-aef5-47d4-afc8-0990cf494123",
+         "category_name": "Food Feature",
+         "author_article_id": "720",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2004\/720.html",
+         "secondary_media_path": "./src/assets/issues/i2004/images/720_THUMB.jpg",
+         "media_path": "",
+         "headline": "Fresh, Frozen or Canned? Best Produce for the $$",
+         "tags": [
+            "I2004"
+         ],
+         "keywords": "Side Dish, Soup, Dessert, Gluten-Free, Staff-Favorite, Thanksgiving, Christmas"
+      },
+      {
+         "content_article_id": "aa6219b2-aef5-47d4-afc8-0990cf494123",
+         "category_name": "Food Feature",
+         "author_article_id": "730",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2004\/730.html",
+         "secondary_media_path": "./src/assets/issues/i2004/images/730_THUMB.jpg",
+         "media_path": "",
+         "headline": "5 Fresh Ways to Use Peppermint",
+         "tags": [
+            "I2004"
+         ],
+         "keywords": "Dessert, Drink, Recipe, Seasonal"
+      },
+      {
+         "content_article_id": "aa6219b2-aef5-47d4-afc8-0990cf494123",
+         "category_name": "Good to Know",
+         "author_article_id": "740",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2004\/740.html",
+         "secondary_media_path": "./src/assets/issues/i2004/images/740_THUMB.jpg",
+         "media_path": "",
+         "headline": "Our Staff’s Top 10 Dessert Recipes",
+         "tags": [
+            "I2004"
+         ],
+         "keywords": "Recipes, Dessert"
+      }
+    ],
+    "result": true,
+    "now": "10\/07\/2019 07:40:26"
+ }

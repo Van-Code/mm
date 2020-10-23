@@ -1,0 +1,1684 @@
+{
+    "result": true,
+    "non_removable_ids": [],
+    "clipped_coupons":["357144"],
+    "coupons": [
+        {
+            "short_description": "Save $1.00 on Mikey's English Muffins",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save $1.00",
+            "display_description": "on Mikey's English Muffins ",
+            "coupon_id": "357144",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "1.0",
+            "categories": [
+                {
+                    "category": "General"
+                }
+            ],
+            "brand": "mikey's",
+            "value": "1.0",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178953.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Mikey&rsquo;s English Muffins",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2006A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/22ceee86abe740779f1e4113ece3cb73_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/a887c38c3f134a3d924995cdb4c8ae00_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "General"
+        },
+        {
+            "short_description": "Save $1.00 on Mikey's English Muffins",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save $1.00",
+            "display_description": "on Mikey's English Muffins ",
+            "coupon_id": "357144",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "1.0",
+            "categories": [
+                {
+                    "category": "General"
+                }
+            ],
+            "brand": "mikey's",
+            "value": "1.0",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178953.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Mikey&rsquo;s English Muffins",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2006A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/22ceee86abe740779f1e4113ece3cb73_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/a887c38c3f134a3d924995cdb4c8ae00_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "General"
+        },
+        {
+            "short_description": "Save $0.80 on 2 Cascadian Farm",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 80&cent; on 2",
+            "display_description": "Cascadian Farm ",
+            "coupon_id": "357064",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.8",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cascadian Farm",
+            "value": "0.8",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178713.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "when you buy TWO PACKAGES any Cascadian Farm&trade; Frozen Vegetables",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2226A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/2d55e7e425ba46bfa179209f02beeda6_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/1a83db9a0d1a46328f03079df11d6768_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.60 on 2 Kroger Brand 90 Second Rice",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 60&cent; on 2",
+            "display_description": "Kroger Brand 90 Second Rice ",
+            "coupon_id": "357101",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.6",
+            "categories": [
+                {
+                    "category": "Canned & Packaged"
+                }
+            ],
+            "brand": "Kroger Brand",
+            "value": "0.6",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178824.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of TWO (2) Kroger Brand 90 Second Rice Packages, any variety",
+            "long_description": "",
+            "sponsor_id": "MM20200001E4784A",
+            "tags": [
+                {
+                    "tag": "BC"
+                },
+                {
+                    "tag": "DHMM20200001E"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5b3138d2a85440fc995edfe09da0e98a_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/9a831adaa0da4d788a4b09362a24b0ab_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Canned & Packaged"
+        },
+        {
+            "short_description": "Please Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "This is the long desciption.",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.50 on Suave Kids",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 50&cent;",
+            "display_description": "on Suave Kids ",
+            "coupon_id": "357105",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.5",
+            "categories": [
+                {
+                    "category": "Health & Beauty"
+                }
+            ],
+            "brand": "Suave",
+            "value": "0.5",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178836.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Suave Kids&reg; Hair Care product (excludes trial and travel sizes).",
+            "long_description": "",
+            "sponsor_id": "MM20200001E3064A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/fe3ca83dc140455696650c5eaf4cd0aa_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/78fe8290294d436aa521148777ed02c6_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Health & Beauty"
+        },
+        {
+            "short_description": "Save $1.00 on Mikey's English Muffins",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save $1.00",
+            "display_description": "on Mikey's English Muffins ",
+            "coupon_id": "357144",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "1.0",
+            "categories": [
+                {
+                    "category": "General"
+                }
+            ],
+            "brand": "mikey's",
+            "value": "1.0",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178953.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Mikey&rsquo;s English Muffins",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2006A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/22ceee86abe740779f1e4113ece3cb73_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/a887c38c3f134a3d924995cdb4c8ae00_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "General"
+        },
+        {
+            "short_description": "Save $0.80 on 2 Cascadian Farm",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 80&cent; on 2",
+            "display_description": "Cascadian Farm ",
+            "coupon_id": "357064",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.8",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cascadian Farm",
+            "value": "0.8",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178713.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "when you buy TWO PACKAGES any Cascadian Farm&trade; Frozen Vegetables",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2226A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/2d55e7e425ba46bfa179209f02beeda6_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/1a83db9a0d1a46328f03079df11d6768_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.60 on 2 Kroger Brand 90 Second Rice",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 60&cent; on 2",
+            "display_description": "Kroger Brand 90 Second Rice ",
+            "coupon_id": "357101",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.6",
+            "categories": [
+                {
+                    "category": "Canned & Packaged"
+                }
+            ],
+            "brand": "Kroger Brand",
+            "value": "0.6",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178824.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of TWO (2) Kroger Brand 90 Second Rice Packages, any variety",
+            "long_description": "",
+            "sponsor_id": "MM20200001E4784A",
+            "tags": [
+                {
+                    "tag": "BC"
+                },
+                {
+                    "tag": "DHMM20200001E"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5b3138d2a85440fc995edfe09da0e98a_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/9a831adaa0da4d788a4b09362a24b0ab_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Canned & Packaged"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "357138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.50 on Suave Kids",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 50&cent;",
+            "display_description": "on Suave Kids ",
+            "coupon_id": "357105",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.5",
+            "categories": [
+                {
+                    "category": "Health & Beauty"
+                }
+            ],
+            "brand": "Suave",
+            "value": "0.5",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178836.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Suave Kids&reg; Hair Care product (excludes trial and travel sizes).",
+            "long_description": "",
+            "sponsor_id": "MM20200001E3064A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/fe3ca83dc140455696650c5eaf4cd0aa_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/78fe8290294d436aa521148777ed02c6_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Health & Beauty"
+        },
+        {
+            "short_description": "Save $1.00 on Mikey's English Muffins",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save $1.00",
+            "display_description": "on Mikey's English Muffins ",
+            "coupon_id": "497144",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "1.0",
+            "categories": [
+                {
+                    "category": "General"
+                }
+            ],
+            "brand": "mikey's",
+            "value": "1.0",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178953.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Mikey&rsquo;s English Muffins",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2006A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/22ceee86abe740779f1e4113ece3cb73_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/a887c38c3f134a3d924995cdb4c8ae00_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "General"
+        },
+        {
+            "short_description": "Save $0.80 on 2 Cascadian Farm",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 80&cent; on 2",
+            "display_description": "Cascadian Farm ",
+            "coupon_id": "487064",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.8",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cascadian Farm",
+            "value": "0.8",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178713.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "when you buy TWO PACKAGES any Cascadian Farm&trade; Frozen Vegetables",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2226A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/2d55e7e425ba46bfa179209f02beeda6_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/1a83db9a0d1a46328f03079df11d6768_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.60 on 2 Kroger Brand 90 Second Rice",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 60&cent; on 2",
+            "display_description": "Kroger Brand 90 Second Rice ",
+            "coupon_id": "477101",
+            "requirement_definitions": [
+                {
+                    "quantity": "2.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.6",
+            "categories": [
+                {
+                    "category": "Canned & Packaged"
+                }
+            ],
+            "brand": "Kroger Brand",
+            "value": "0.6",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178824.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of TWO (2) Kroger Brand 90 Second Rice Packages, any variety",
+            "long_description": "",
+            "sponsor_id": "MM20200001E4784A",
+            "tags": [
+                {
+                    "tag": "BC"
+                },
+                {
+                    "tag": "DHMM20200001E"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5b3138d2a85440fc995edfe09da0e98a_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/9a831adaa0da4d788a4b09362a24b0ab_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Canned & Packaged"
+        },
+        {
+            "short_description": "Save $0.75 on Cedarlane",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 75&cent;",
+            "display_description": "on Cedarlane ",
+            "coupon_id": "467138",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.75",
+            "categories": [
+                {
+                    "category": "Frozen"
+                }
+            ],
+            "brand": "Cedarlane",
+            "value": "0.75",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178935.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on the purchase of ONE (1) Cedarlane frozen entr&eacute;e",
+            "long_description": "",
+            "sponsor_id": "MM20200001E2084A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/5c892721cca2425396a8d7c2777c7a3d_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/45fb654150704e3d9b65066226c866f9_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Frozen"
+        },
+        {
+            "short_description": "Save $0.50 on Suave Kids",
+            "pos_start_date": "03\/09\/2020",
+            "sponsor_reference_id": "",
+            "featured": "N",
+            "value_type": "CURRENCY",
+            "signature": "",
+            "modality_restrictions": [],
+            "expiration_date": "05\/31\/2020",
+            "title": "Save 50&cent;",
+            "display_description": "on Suave Kids ",
+            "coupon_id": "457105",
+            "requirement_definitions": [
+                {
+                    "quantity": "1.0",
+                    "quantity_type": "ITEM",
+                    "index": "0"
+                }
+            ],
+            "cashout_type": "",
+            "savings": "0.5",
+            "categories": [
+                {
+                    "category": "Health & Beauty"
+                }
+            ],
+            "brand": "Suave",
+            "value": "0.5",
+            "offer_type": "0",
+            "display_start_date": "02\/05\/2020",
+            "image_uri": "\/\/cdnmediastg.softcoin.com\/mediaCache\/ecoupon_178836.jpg",
+            "redemptions_allowed": "1",
+            "requirement_description": "on any ONE (1) Suave Kids&reg; Hair Care product (excludes trial and travel sizes).",
+            "long_description": "",
+            "sponsor_id": "MM20200001E3064A",
+            "tags": [
+                {
+                    "tag": "DHMM20200001E"
+                },
+                {
+                    "tag": "BC"
+                }
+            ],
+            "medias": [
+                {
+                    "profile_name": "DEFAULT",
+                    "profile_type": "0",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "300",
+                    "profile_width": "300",
+                    "priority": "1",
+                    "is_default": "Y",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/fe3ca83dc140455696650c5eaf4cd0aa_3P_en_US_300_300.jpg"
+                },
+                {
+                    "profile_name": "PRODUCTPAGE",
+                    "profile_type": "1",
+                    "content_type": "image\/jpeg",
+                    "media_type": "0",
+                    "profile_height": "",
+                    "profile_width": "",
+                    "priority": "4",
+                    "is_default": "N",
+                    "locale": "en_US",
+                    "url": "\/\/cdns3stg.softcoin.com\/images\/600202\/78fe8290294d436aa521148777ed02c6_3S_en_US.jpg"
+                }
+            ],
+            "long_description_header": "",
+            "category": "Health & Beauty"
+        }
+    ],
+    "now": "02\/13\/2020 08:26:43",
+    "totals": {
+        "total_value": 3.65,
+        "total_count": 5
+    },
+    "sort_order": {
+        "Relevance": [
+            "357144",
+            "357064",
+            "357101",
+            "357138",
+            "357105"
+        ],
+        "Popularity": [
+            "357144",
+            "357064",
+            "357101",
+            "357138",
+            "357105"
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<title>MyMagazine</title>
+	<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width,user-scalable=yes">
+	
+	<!--Begin Open Graph tags-->
+	<meta property="og:title" content="Kroger MyMagazine" />
+	<meta property="og:url" content="https://www.mymagazine.us" />
+	<meta property="og:image"
+		content="https://www.mymagazine.us/programs/kroger/mymag/src/assets/images/site/MM_logo_share.png" />
+	
+	<meta property="og:description" content="Thank you for shopping with us!" />
+
+	<!-- material icons -->
+	<!-- <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+	  rel="stylesheet"> -->
+	<link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
+
+	<!-- Google Tag Manager -->
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-WR67LLJ');</script>
+	<!-- End Google Tag Manager -->
+
+	<!-- Pinterest Tagging -->
+	<script>
+		!function (e) {
+			if (!window.pintrk) {
+				window.pintrk = function () {
+					window.pintrk.queue.push(Array.prototype.slice.call(arguments))
+				};
+				var n = window.pintrk;
+				n.queue = [],
+					n.version = "3.0";
+				var t = document.createElement("script");
+				t.async = !0,
+					t.src = e;
+				var r = document.getElementsByTagName("script")[0];
+				r.parentNode.insertBefore(t, r)
+			}
+		}("https://s.pinimg.com/ct/core.js");
+		pintrk('load', '2616647956598');
+		pintrk('page');
+	</script>
+	<!-- End Pinterest Tagging -->
+</head>
+
+<body aria-hidden="false">
+	<div id="app" role="main" aria-busy="true">
+
+	</div>
+	<script src="//cdnprod.softcoin.com/programs/kroger/common/js/libs/jquery-3.4.1.min.js"></script>
+	
+	
+	<script type="text/javascript">
+		var require = {
+			urlArgs: function (urlObj) {
+				if (!Array.isArray(urlObj) || urlObj.indexOf('app.js') !== -1) {
+					//Always cachebust the main app file
+					return 'bust=@version@';
+				} else if (document.domain === 'localhost') {
+					//Always cachebust on local
+					return 'bust=' + new Date().getTime();
+				} else {
+					//Use the version # in require.config for all common modules
+					return this.config.appUrlArgs;
+				}
+			},
+			// deps: ['dist/vendors.bundle.js', 'https://kroger.softcoin.com/programs/kroger/shared/src/app.js']
+			deps: ['https://kroger.softcoin.com/programs/kroger/shared/src/app.js']
+		};
+	</script>
+	<script src="/programs/common/js/libs/require.js?v=1.01"></script>
+
+
+
+	<!-- GA Prod  -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15017097-3" ></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-15017097-24"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+		// Individul
+		gtag('config', 'UA-15017097-3',{ send_page_view: false });
+		// All Kroger
+		gtag('config', 'UA-15017097-24');
+	</script>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WR67LLJ" height="0" width="0"
+			style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+</body>
+
+</html>

@@ -1,0 +1,330 @@
+{
+   "general_issue": [
+      {
+         "content_article_id": "2030ba98-3233-4bea-9b59-ade99a96aa721",
+         "category_name": "Fresh Fare",
+         "author_article_id": "301",
+         "source_site_id": "4230",
+         "subtitle": "Bright Flavor for Your Favorite Seasonal Fare",
+         "content_path": "\/mm\/issues\/I2002\/301.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/301_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/301_MAIN.jpg",
+         "headline": "These Herbs Are Your New Triple Threat",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Fast, Produce, Quick, Recipe, Vegetable, Vegetarian"
+      },
+      {
+         "content_article_id": "eadef0f8-b3c3-49b3-90ff-a1f4cb1a7fbd",
+         "category_name": "How To",
+         "author_article_id": "311",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/311.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/311_THUMB.gif",
+         "media_path": "",
+         "headline": "How to Chop and Cook with Hot Peppers",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Fruit, Produce, Tips and Tricks, Vegetable"
+      },
+      {
+         "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478fer",
+         "category_name": "What&rsquo;s In-Store",
+         "author_article_id": "321",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2001\/321.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/321_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/321_MAIN.jpg",
+         "headline": "Summertime Fun and Flavor? It&rsquo;s All In-Store",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Beef, Breakfast, Cake, Desserts, Fruit, Gifts, Grill, Party, Produce"
+      },
+      {
+         "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478fe",
+         "category_name": "Dinner Tonight",
+         "author_article_id": "331",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/331.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/331_THUMB.jpg",
+         "media_path": "",
+         "headline": "Everything&rsquo;s Better with Bacon — Even Salad!",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Dinner, Fast, Lunch, One Dish Meal, Pasta, Pork, Produce, Quick, Recipe, Salad"
+      },
+      {
+         "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd4784fe",
+         "category_name": "Dinner Tonight",
+         "author_article_id": "332",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/332.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/332_THUMB.jpg",
+         "media_path": "",
+         "headline": "Tangy, Tasty Thai Flavor — Ready in No Time!",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Chicken, Dinner, Fast, Grill, Meat,  One Dish Meal, Produce, Quick, Recipe, Salad"
+      },
+      {
+         "content_article_id": "16f412f7-50f3-47e0-be01-7e8978a5aaa1",
+         "category_name": "Secret Ingredient",
+         "author_article_id": "341",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/341.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/341_THUMB.jpg",
+         "media_path": "",
+         "headline": "Why Fresh Ginger Makes Every Dish Better",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Produce"
+      },
+      {
+         "content_article_id": "16f412f7-50f3-47e0-be01-7e89728a5aaa1",
+         "category_name": "Good food, Fast",
+         "author_article_id": "351",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/351.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/351_THUMB.jpg",
+         "media_path": "",
+         "headline": "Sliders and Simple Sides Are Weeknight Heroes",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Beef, Dinner, Fast, Kids, Meat, Quick, Sanwich, Sides, Tips and Tricks"
+      },
+      {
+         "content_article_id": "16f412f7-50f3-47e0-be01-7e8978a5aaa1",
+         "category_name": "Good food, Fast",
+         "author_article_id": "352",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/352.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/352_THUMB.jpg",
+         "media_path": "",
+         "headline": "Skip the Fast Food with Our Burger and Fries",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Beer, Dinner, Fast, Fruit, Quick, sandwich, Sides"
+      },
+      {
+         "content_article_id": "d236d7fa6-019e-45c6-be24-a213422f5602",
+         "category_name": "Feature",
+         "author_article_id": "401",
+         "source_site_id": "4230",
+         "subtitle": "Budget-Friendly Recipes Perfect for the Grill",
+         "content_path": "\/mm\/issues\/I2002\/401.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/401_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/401_MAIN.jpg",
+         "animate1": "./src/assets/issues/i2002/images/WING1.png",
+         "animate2": "./src/assets/issues/i2002/images/WING2.png",
+         "animate3": "./src/assets/issues/i2002/images/WING3.png",
+         "animate4": "./src/assets/issues/i2002/images/401_SPICE1.png",
+         "animate_bg_color": "#76ca7b",
+         "headline": "Grilled Meals as Tasty as They Are Affordable",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Beef, Chicken, Dinner, Grilling, Meat, Recipe, Seasonal"
+      },
+      {
+         "content_article_id": "d36d7fa6-019e-45c6-be24-a213422f5602",
+         "category_name": "Feature",
+         "author_article_id": "402",
+         "source_site_id": "4230",
+         "subtitle": "Delicious Treats to Celebrate the Season",
+         "content_path": "\/mm\/issues\/I2002\/402.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/402_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/402_MAIN.jpg",
+         "animate5": "./src/assets/issues/i2002/images/berry_right.png",
+         "animate6": "./src/assets/issues/i2002/images/berry_left.png",
+         "animate7": "./src/assets/issues/i2002/images/berry_middle.png",
+         "animate_bg_color": "#76ca7b",
+         "headline": "Berry Sweet Desserts for Summer",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Entertaining, Appetizers, Desserts, Dinner, Drinks, Expert Advice, Fast, Fruit, Meat, Party, Snacks, Tips and Tricks, Wine"
+      },
+      {
+         "content_article_id": "ccfea7cb-94351-4dfd-91d5-3a4a80b0468a",
+         "category_name": "Feature",
+         "author_article_id": "501",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/501.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/501_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/501_MAIN.jpg",
+         "headline": "Your New Go-To Summer Recipes",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Appetizers, Chicken, Cookies, fruit, Dessert, Produce, Recipe, Sides, Slow Cooker, Snacks, Tips and Tricks"
+      },
+      {
+         "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b0468a",
+         "category_name": "Feature",
+         "author_article_id": "502",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/502.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/502_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/502_MAIN.jpg",
+         "headline": "3 New Classics to Skewer, Grill and Devour",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Beef, Fast, Grill, Healthy, Meat, Produce, Quick, Recipe, Seafood, Vegetable"
+      },
+      {
+         "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a803b0468a",
+         "category_name": "Feature",
+         "author_article_id": "511",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/511.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/511_THUMB.gif",
+         "media_path": "./src/assets/issues/i2002/images/511_MAIN.gif",
+         "headline": "Game-Changing Ice Cream Dessert Hacks",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Cake, Chocolate, Desserts, Fast, Quick, Recipe, Tips and Tricks"
+      },
+      {
+         "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b0468a",
+         "category_name": "Feature",
+         "author_article_id": "512",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/512.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/512_THUMB.jpg",
+         "media_path": "./src/assets/issues/i2002/images/512_MAIN.jpg",
+         "headline": "A Summery Menu That&rsquo;s Sure to Wow",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Chicken, Dinner, Fast, One Dish Meal, Party, Quick, Recipe, Salad, Tips and Tricks, Vegetarian"
+      },
+      {
+         "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b04268a",
+         "category_name": "Healthy Living",
+         "author_article_id": "601",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/601.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/601_THUMB.gif",
+         "media_path": "",
+         "headline": "4 Easy Tips for Cutting Your Sugar Intake",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Healthy, Wellness"
+      },
+      {
+         "content_article_id": "a3bde814-8b07-4e15-8647-63614b9ba1ec",
+         "category_name": "On the Calendar",
+         "author_article_id": "602",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/602.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/602_THUMB.jpg",
+         "media_path": "",
+         "headline": "Fun Last-Minute Gifts for Dads and Grads",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Parenting, Baby, Beauty, Beer, Chocolate, Gifts, Household, Kids, Seasonal, Wellness, Wine"
+      },
+      {
+         "content_article_id": "654b0b0b-fa5a-47ed-b3e7-d29507c12ce3",
+         "category_name": "Asked & Answered",
+         "author_article_id": "603",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/603.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/603_THUMB.jpg",
+         "media_path": "",
+         "headline": "Shoppers Share Their Beach Bag Essentials ",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Seasonal, Tips and Tricks"
+      },
+      {
+         "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494500",
+         "category_name": "Real Beauty",
+         "author_article_id": "604",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/604.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/604_THUMB.jpg",
+         "media_path": "",
+         "headline": "Beauty Finds for the Ultimate Summer Glow",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Décor, DIY, Expert Advice, Tips and Tricks"
+      },
+      {
+         "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494511",
+         "category_name": "Life at Large",
+         "author_article_id": "342",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/342.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/342_THUMB.jpg",
+         "media_path": "",
+         "headline": "3 Creative Ideas for a Date Night In",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Food, Drinks Crafts, DIY, Expert Advice, Tips and Tricks"
+      },
+      {
+         "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494520",
+         "category_name": "Healthy Living",
+         "author_article_id": "520",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/520.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/520_THUMB.jpg",
+         "media_path": "",
+         "headline": "Grow Your Own Veggies from Kitchen Scraps",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Expert Advice, Healthy, Wellness"
+      },
+      {
+         "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494531",
+         "category_name": "Fresh Fare",
+         "author_article_id": "530",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2002\/530.html",
+         "secondary_media_path": "./src/assets/issues/i2002/images/530_THUMB.jpg",
+         "media_path": "",
+         "headline": "5 Easy Ways to Preserve Summer Produce",
+         "tags": [
+            "I2002"
+         ],
+         "keywords": "Fast, Produce, Quick, Recipe, Vegetable, Vegetarian"
+      }
+   ],
+   "result": true,
+   "now": "10\/07\/2019 07:40:26"
+}

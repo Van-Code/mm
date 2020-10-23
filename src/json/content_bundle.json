@@ -1,0 +1,37 @@
+{
+	"result": true,
+	"content_list": [
+		{
+			"web_content_id": "f325dcb9-da61-413q-83df-4b2348a56ede",
+			"subheader": "",
+			"content_type": "0",
+			"display_start_date": "05/29/2018",
+			"file_paths": [
+				{
+					"path": "mymag/dist/bundle.js",
+					"rank": "",
+					"label": "JS_CUSTOM"
+				},
+				{
+					"path": "mymag/dist/vendors.bundle.js",
+					"rank": "99",
+					"label": "JS_CUSTOM"
+				}
+			],
+			"header": "",
+			"description": "",
+			"display_end_date": "05/26/2028",
+			"title": "MYMAG MM mm_2020 bundle",
+			"value": "6.0",
+			"tags": [
+				{
+					"tag": "MYMAGAZINE"
+				},
+				{
+					"tag": "BUNDLE"
+				}
+			]
+		}
+	],
+	"now": "02/25/2019 19:04:50"
+}

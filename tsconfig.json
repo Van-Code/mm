@@ -1,0 +1,51 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "noImplicitAny": false,
+    "noImplicitThis": false,
+    "noUnusedLocals": false,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "downlevelIteration": true,//... Set
+    "baseUrl": ".",
+    "types": [
+      "webpack-env","vuetify","google.analytics","jest","jquery"
+    ],
+    "paths": {
+      "@/*": [
+        "src/*"
+      ],
+      "shared/*": [
+       "../shared/src/*"
+      ]
+    },
+    "lib": [
+      "es2015", "es2015.promise", "es2017",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.vue",
+    "../../shared/src/mixins/*.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.js",
+    "shared/src/**/*.js",
+    "src/mixins/*.js",
+    "src/mixins/*.ts",
+    "tests"
+  ]
+}

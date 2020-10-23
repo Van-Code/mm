@@ -1,0 +1,327 @@
+{
+    "general_issue": [
+       {
+          "content_article_id": "2030ba98-3233-4bea-9b59-ade99a96aa720",
+          "category_name": "Fresh Fare",
+          "author_article_id": "300",
+          "source_site_id": "4230",
+          "subtitle": "These sweet and savory recipes are sure to please.",
+          "content_path": "\/mm\/issues\/I2003\/300.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/300_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/300_MAIN.jpg",
+          "headline": "The Time Is Ripe for Apples",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478fe1",
+          "category_name": "How-To",
+          "author_article_id": "320",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/321.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/320_THUMB.gif",
+          "media_path": "",
+          "headline": "The Easiest Way to Cut a Butternut Squash",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "16bbc591-f6b7-41a1-9de7-60e71cd478f3",
+          "category_name": "What&rsquo;s In-Store",
+          "author_article_id": "330",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/330.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/330_THUMB.jpg",
+          "media_path": "",
+          "headline": "Fall Fun Is All In-Store",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "16f412f7-50f3-47e0-be01-7e89728a5aaa4",
+          "category_name": "Dinner Tonight",
+          "author_article_id": "350",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/350.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/350_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/350_MAIN.png",
+          "headline": "Veggie-Packed Mac in Less Than 30 Minutes",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "16f412f7-50f3-47e0-be01-7e8978a5aaa5",
+          "category_name": "Dinner Tonight",
+          "author_article_id": "360",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/360.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/360_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/360_MAIN.png",
+          "headline": "A Gnocchi Dinner in 30 Minutes? Yes, Please! ",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "d236d7fa6-019e-45c6-be24-a213422f5606",
+          "category_name": "Secret Ingredient",
+          "author_article_id": "370",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/370.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/370_THUMB.jpg",
+          "media_path": "",
+          "headline": "Up Your Game with This Pantry Superstar",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "d36d7fa6-019e-45c6-be24-a213422f5607",
+          "category_name": "Good Food, Fast",
+          "author_article_id": "380",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/380.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/380_THUMB.jpg",
+          "headline": "Be a Dinner Hero with Heat-and-Eat Pot Pies",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "ccfea7cb-94351-4dfd-91d5-3a4a80b04688",
+          "category_name": "Good Food, Fast",
+          "author_article_id": "390",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/390.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/390_THUMB.jpg",
+          "media_path": "",
+          "headline": "Takeout Flavor Straight from the Freezer",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b04689",
+          "category_name": "Feature Article",
+          "author_article_id": "400",
+          "source_site_id": "4230",
+          "subtitle": "Our Top 10 Things to Taste, See and Do This Season",
+          "content_path": "\/mm\/issues\/I2003\/400.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/400_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/400_MAIN.jpg",
+          "headline": "The Ultimate Fall To-Do List",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a803b04680",
+          "category_name": "Feature",
+          "author_article_id": "410",
+          "source_site_id": "4230",
+          "subtitle": "Restaurant-Inspired Fare You Can Make Yourself",
+          "content_path": "\/mm\/issues\/I2003\/410.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/410_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/410_MAIN.jpg",
+          "headline": "A Restaurant-Inspired Meal &mdash; at Home",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b04681",
+          "category_name": "Feature",
+          "author_article_id": "500",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/500.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/500_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/500_MAIN.jpg",
+          "headline": "Kid-Tested Meals for Busy Weeknights",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "ccfea7cb-9451-4dfd-91d5-3a4a80b042622",
+          "category_name": "Feature Article",
+          "author_article_id": "510",
+          "source_site_id": "4230",
+          "subtitle": "3 Desserts Featuring the Flavors of the Season",
+          "content_path": "\/mm\/issues\/I2003\/510.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/510_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/510_MAIN.jpg",
+          "animate1": "./src/assets/issues/i2003/images/510/pie1.png",
+          "animate2": "./src/assets/issues/i2003/images/510/pie2.png",
+          "animate3": "./src/assets/issues/i2003/images/510/pie3.png",
+          "animate4": "./src/assets/issues/i2003/images/510/nut1.png",
+          "animate5": "./src/assets/issues/i2003/images/510/nut2.png",
+          "animate6": "./src/assets/issues/i2003/images/510/nut3.png",
+          "animate_bg_color": "#76ca7b",
+          "headline": "Love at First Bite with these Fall Sweets",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "a3bde814-8b07-4e15-8647-63614b9ba133",
+          "category_name": "Feature",
+          "author_article_id": "520",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/520.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/520_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/520_MAIN.jpg",
+          "headline": "A Super-Easy Plan (and Meal!) for Family Fun",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "654b0b0b-fa5a-47ed-b3e7-d29507c12c44",
+          "category_name": "Feature",
+          "author_article_id": "530",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/530.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/530_THUMB.jpg",
+          "media_path": "./src/assets/issues/i2003/images/530_MAIN.jpg",
+          "headline": "We Dare You to Try These Spooky Cocktails",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494555",
+          "category_name": "Healthy Living",
+          "author_article_id": "600",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/600.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/600_THUMB.jpg",
+          "media_path": "",
+          "headline": "That’s Plant-Based? 4 Must-Try Alternatives",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494566",
+          "category_name": "On the Calendar",
+          "author_article_id": "610",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/610.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/610_THUMB.jpg",
+          "media_path": "",
+          "headline": "Easy DIY Paper Bag Halloween Luminaries",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494577",
+          "category_name": "Asked & Answered",
+          "author_article_id": "620",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/620.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/620_THUMB.jpg",
+          "media_path": "",
+          "headline": "Shoppers Share Their Fave Halloween Treats",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+          "content_article_id": "aa6219bc-aef5-47d4-afc8-0990cf494588",
+          "category_name": "Expert Tips",
+          "author_article_id": "630",
+          "source_site_id": "4230",
+          "subtitle": "",
+          "content_path": "\/mm\/issues\/I2003\/630.html",
+          "secondary_media_path": "./src/assets/issues/i2003/images/630_THUMB.jpg",
+          "media_path": "",
+          "headline": "Fall Beauty Trends You Need to Try",
+          "tags": [
+             "I2003"
+          ],
+          "keywords": ""
+       },
+       {
+         "content_article_id": "aa6219b0-aef5-47d4-afc8-0990cf494599",
+         "category_name": "Expert Tips",
+         "author_article_id": "650",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2003\/650.html",
+         "secondary_media_path": "./src/assets/issues/i2003/images/650_THUMB.jpg",
+         "media_path": "",
+         "headline": "5 Tasty Ways to Use Apple Cider",
+         "tags": [
+            "I2003"
+         ],
+         "keywords": ""
+      },
+      {
+         "content_article_id": "aa6219b1-aef5-47d4-afc8-0990cf494510",
+         "category_name": "Expert Tips",
+         "author_article_id": "660",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2003\/660.html",
+         "secondary_media_path": "./src/assets/issues/i2003/images/660_THUMB.jpg",
+         "media_path": "",
+         "headline": "Tips for Hitting the Trails This Fall",
+         "tags": [
+            "I2003"
+         ],
+         "keywords": ""
+      },
+      {
+         "content_article_id": "aa6219b2-aef5-47d4-afc8-0990cf494123",
+         "category_name": "Expert Tips",
+         "author_article_id": "670",
+         "source_site_id": "4230",
+         "subtitle": "",
+         "content_path": "\/mm\/issues\/I2003\/670.html",
+         "secondary_media_path": "./src/assets/issues/i2003/images/670_THUMB.jpg",
+         "media_path": "",
+         "headline": "Super-Easy Pizzas for Halloween",
+         "tags": [
+            "I2003"
+         ],
+         "keywords": ""
+      }
+    ],
+    "result": true,
+    "now": "10\/07\/2019 07:40:26"
+ }

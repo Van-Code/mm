@@ -1,0 +1,298 @@
+{
+    "general_issue": [
+        {
+            "content_article_id": "7918968b-0300-435c-b610-6f1d904f477d",
+            "category_name": "Featured Article",
+            "author_article_id": "201",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/201.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/1920d57a21964972b9aca0ab912439c5.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/7aeef61b0d9d4341acd6140b39464e29.jpg",
+            "headline": "How Our Favorite Fall Flavors Came to Be",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "98124156-4c23-4738-a538-d7621f229378",
+            "category_name": "Taste Trend",
+            "author_article_id": "211",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/211.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/0e4f4e642ca4487caaed259b94cc62da.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/9bf7e6376a834f7bb50533a82de430d2.jpg",
+            "headline": "A Worthy Addition to Your Spice Collection",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "4a53e649-f05d-4c13-be40-f597e2e6cc98",
+            "category_name": "In the Kitchen",
+            "author_article_id": "221",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/221.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/86c3da705a824cc4a18d3d761ac2db79.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/e1f8b169dce4405ba41082f1e3ec928c.jpg",
+            "headline": "A Secret to Perfectly Roasted Brussels Sprouts",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "fe696d4c-c59c-47c0-982d-13c23d1a3fff",
+            "category_name": "Dinner Tonight",
+            "author_article_id": "301",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/301.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/ada4fd1b60dd4ef4b7e193e52e9f4f3f.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/fd8405b51821462aa3939438376d5871.jpg",
+            "headline": "Stuffed Jack o&rsquo; Lanterns Make Dinner More Fun",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "2e3f3f23-f989-45d0-a21e-02e6a89b9d5e",
+            "category_name": "Dinner Tonight",
+            "author_article_id": "311",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/311.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/0acf8265c425461c8c983f39fb60532b.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/1e13239cb8074960bb53d3a5c82d42de.gif",
+            "headline": "Everything&rsquo;s Better with Pumpkin &mdash; Even Pasta!",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "8ded3cbf-c4c5-4d3f-b624-8bb6eb7d918c",
+            "category_name": "Good to Know",
+            "author_article_id": "321",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/321.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/abf2165681fe4110b088af8f4e2799a1.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/bd7f1704336b40a4b7b9204190fd91c5.jpg",
+            "headline": "5 Fun Upcycled Halloween Crafts for Kids",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "309953bc-af74-4b82-a1ef-832094bce332",
+            "category_name": "Dinner Tonight",
+            "author_article_id": "331",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/331.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/3374f998fb214c89af41a07c2053fbe6.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/d0f6e6bb15a64bb790ed1b8580a2533b.gif",
+            "headline": "Pairings for a Sophisticated Halloween Soiree",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "8a2f5ace-eb4e-4e4e-b13c-ac74d50ed12d",
+            "category_name": "Good to Know",
+            "author_article_id": "341",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/341.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/6c0d8eed9c3247219b86c0bd69e151eb.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/0799b25a62f74800a1edb95914a39ba1.jpg",
+            "headline": "3 Frightfully Delightful DIY Centerpieces",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "30045c2b-4fa3-4f59-ad89-47e4f1bfaef6",
+            "category_name": "Fresh Fare",
+            "author_article_id": "401",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/401.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/1cf95e63fec5426e980bee06f672cea3.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/3a28ce1de3dc400a91d4a22b28424c3b.jpg",
+            "headline": "Apple Varieties to Suit Every Taste",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "2f2a15f8-3f85-450d-a74d-ed2e324ce301",
+            "category_name": "Seasonal Eats",
+            "author_article_id": "521",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/521.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/e3862de5d7fb4a9f8dc54dfd798ae8a8.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/e6bf831db47148c2929d1431f2f6c3c2.gif",
+            "headline": "Meet Your New Favorite Fall Breakfast",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "61b4025f-a32e-47f9-a996-15ff4d9dddfc",
+            "category_name": "Seasonal Eats",
+            "author_article_id": "531",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/531.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/d806c14fcb0446d1839f33083c098ed0.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/bd6189da3e744ba38e44307f590c31d1.jpg",
+            "headline": "A Gluten-Free Muffin Perfect for the Season",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "71947550-a237-4e7a-921c-5871923de0ab",
+            "category_name": "Food Feature",
+            "author_article_id": "701",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/701.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/eb6d50f10f104621b60fafdab013f280.gif",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/746a93a72f6f4cb8a6abe05fa0cba2e2.gif",
+            "headline": "3 Very Veggie, Gluten-Free Pizzas",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "20c0536b-65e8-406c-a45a-cee650a47b7f",
+            "category_name": "Food Feature",
+            "author_article_id": "711",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/711.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/c94fd3772d2347cf9fe80d059526728c.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/20aa5f801c1d4c2d8e3d8a9baad15224.jpg",
+            "headline": "Comfort Foods with a Dash of Global Flair",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "986116dc-5e48-4e55-93b2-693bafddb328",
+            "category_name": "Food Feature",
+            "author_article_id": "721",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/721.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/0f847527856246a9a21cf58882dbca70.gif",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/831285921e2549cd8001ec324c53c992.gif",
+            "headline": "Spooktacular Sweets That are Frighfully Cute",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "2117ad33-740b-49f2-88ce-8323042ccdb5",
+            "category_name": "Food Feature",
+            "author_article_id": "731",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/731.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/e0a1c661e11348e3956c2c6cbf041371.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/e56f2742dc024650864786ae81502d91.jpg",
+            "headline": "Score Big Points with Football-Themed Snacks",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "02db173d-e95b-4b9b-a870-1d7eb769334f",
+            "category_name": "A Healthier Life",
+            "author_article_id": "351",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/351.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/70d9666b8a564e95a15337d8679ab92b.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/0e5b7ee780a04ba2b9c95ccda07a2cad.jpg",
+            "headline": "Easy Ways to Add More Turmeric to Your Diet",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "3aeafce0-bcce-4c2f-92c3-5cfc455ced16",
+            "category_name": "A Healthier Life",
+            "author_article_id": "361",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/361.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/555d585ea689461fb9a0fa9e43f670d0.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/412d3d2a4ace4fd7954654f09fb31c71.jpg",
+            "headline": "Germs &mdash; How They&rsquo;re Spread and How to Stop &lsquo;Em",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "4d7bdadb-f181-4b7d-ba58-d08dc4ef5bae",
+            "category_name": "On the Calendar",
+            "author_article_id": "411",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/411.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/db4e193e9e014f80808df0cabb2155fe.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/5b2297cdf8b64fc2954c0b9f47dfc406.jpg",
+            "headline": "Supporting Those Affected by Breast Cancer",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "d1955e26-146b-42ac-b076-412a76ac812a",
+            "category_name": "Life at Large",
+            "author_article_id": "541",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/541.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/c117981155d24a2698b92b449e982ddc.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/05303f61f18d4d1ea435a2615cdcd235.jpg",
+            "headline": "What to Expect When Baby Starts Talking",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "0e777a33-e7ab-4694-b16a-9018914161ec",
+            "category_name": "Life at Large",
+            "author_article_id": "551",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/551.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/a9447050b9a6495296c563843dd43113.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/5e5c9bb55123453db94384f6c1b747bb.jpg",
+            "headline": "How to Make Sense of Natural and Organic Labels",
+            "tags": [
+                "I1806"
+            ]
+        },
+        {
+            "content_article_id": "19d903fc-7d10-40f0-8586-878fdb08dd0c",
+            "category_name": "Life at Large",
+            "author_article_id": "561",
+            "source_site_id": "4230",
+            "subtitle": "",
+            "content_path": "/mm/issues/i1806/561.html",
+            "media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/3a2bba19205c4778bbb778eef7fd7ff9.jpg",
+            "secondary_media_path": "//s3.amazonaws.com/s3adm2stg/images/048102/8f25b5033bc24992b58076045e76d0d1.jpg",
+            "headline": "Understanding the New Nutrition Labels",
+            "tags": [
+                "I1806"
+            ]
+        }
+    ]
+}
